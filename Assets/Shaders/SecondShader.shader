@@ -1,4 +1,4 @@
-﻿Shader "Dreamo/Lesson2"
+﻿Shader "Dreamo/SecondShader"
 {
     Properties
     {
