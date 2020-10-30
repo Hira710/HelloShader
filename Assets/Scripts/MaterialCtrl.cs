@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class MaterialCtrl : MonoBehaviour
 {
-    [SerializeField]
-    MeshRenderer planeMeshRender;
-
     // Start is called before the first frame update
     void Start()
     {
